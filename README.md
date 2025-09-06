@@ -1,0 +1,2 @@
+# clinical_note_generation_llm_evaluation_framework
+AI-Generated Project: Clinical_Note_Generation_LLM_Evaluation_Framework - Created by WATCHDOG Multi-Agent System
