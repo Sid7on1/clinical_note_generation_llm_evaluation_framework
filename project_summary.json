@@ -1,0 +1,16 @@
+{
+  "project_name": "Clinical_Note_Generation_LLM_Evaluation_Framework",
+  "project_type": "nlp",
+  "completion_time": "2025-09-06T20:41:42.284559",
+  "total_tasks": 11,
+  "completed_tasks": 11,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/Clinical_Note_Generation_LLM_Evaluation_Framework"
+}
